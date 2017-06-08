@@ -1,0 +1,19 @@
+{
+  "rules": {
+    "semi": 0,
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "space-before-function-paren": 0
+  },
+  "extends": "standard",
+  "env": {
+    "jasmine": true
+  },
+  "plugins": [
+    "standard",
+    "promise",
+    "jasmine"
+  ]
+}
